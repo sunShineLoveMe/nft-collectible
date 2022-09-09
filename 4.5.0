@@ -1,0 +1,49 @@
+
+> bufferutil@4.0.6 install D:\project\NFT\nft-collectible\node_modules\bufferutil
+> node-gyp-build
+
+
+> utf-8-validate@5.0.9 install D:\project\NFT\nft-collectible\node_modules\utf-8-validate
+> node-gyp-build
+
+
+> es5-ext@0.10.62 postinstall D:\project\NFT\nft-collectible\node_modules\es5-ext
+>  node -e "try{require('./_postinstall')}catch(e){}" || exit 0
+
+
+> web3-bzz@1.7.4 postinstall D:\project\NFT\nft-collectible\node_modules\web3-bzz
+> echo "WARNING: the web3-bzz api will be deprecated in the next version"
+
+"WARNING: the web3-bzz api will be deprecated in the next version"
+
+> web3-shh@1.7.4 postinstall D:\project\NFT\nft-collectible\node_modules\web3-shh
+> echo "WARNING: the web3-shh api will be deprecated in the next version"
+
+"WARNING: the web3-shh api will be deprecated in the next version"
+
+> web3@1.7.4 postinstall D:\project\NFT\nft-collectible\node_modules\web3
+> echo "WARNING: the web3-shh and web3-bzz api will be deprecated in the next version"
+
+"WARNING: the web3-shh and web3-bzz api will be deprecated in the next version"
++ @nomicfoundation/hardhat-chai-matchers@1.0.0
++ @typechain/ethers-v5@10.1.0
++ chai@4.2.0
++ solidity-coverage@0.7.21
++ @types/chai@4.2.0
++ hardhat-gas-reporter@1.0.8
++ typescript@4.8.2
++ @typechain/hardhat@6.1.2
++ @nomiclabs/hardhat-ethers@2.0.0
++ @types/mocha@9.1.0
++ ethers@5.4.7
++ ts-node@10.9.1
++ @nomicfoundation/hardhat-network-helpers@1.0.0
++ typechain@8.1.0
++ @nomiclabs/hardhat-etherscan@3.0.0
+added 651 packages from 549 contributors and audited 965 packages in 316.304s
+
+137 packages are looking for funding
+  run `npm fund` for details
+
+found 4 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
